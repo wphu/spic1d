@@ -2,21 +2,21 @@
 	numbz=501
 	NP=100000
 	lz=10.0d-3
-	
+
 	dt=1.0d-12
-	step_max=50
+	step_max=10
 
 	n0=1.0d19
 	v0=0.0
-	
+
 	ue=20.0
 	uion1=20.0
 	uion2=20.0
-	
+
 	step_output=10
 	step_ave=10
 	control_ion_time=1
-	
+
 /
 
 
@@ -25,5 +25,3 @@
 
 
 /
-
-
